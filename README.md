@@ -8,7 +8,7 @@ Batch Normalization and Relu activation function both are used on Convolution la
 Change parameters in `Config.py` and train using `python3 train.py`
 Change Paths of Train and Test data in Config file.
 
-##Requirements:
+## Requirements:
 * torch
 * Pillow
 * numpy
